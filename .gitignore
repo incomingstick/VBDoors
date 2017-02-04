@@ -1,0 +1,49 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# User specific settings
+*.vbproj
+*.[Uu]ser
+
+# Folders and other files
+[Dd]ebug/
+.settings/
+.project
+.cproject
+*.out
+[Bb]in/
+*.cbp
+*.depend
+[Bb]uild/
+[Bb]uild32/
+[Bb]uild64/
+.vscode
+obj
+[Mm]y\ [Pp]roject/
